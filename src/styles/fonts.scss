@@ -10,7 +10,7 @@
 
 @import 'vars.scss';
 
-$base-path: '../assets/fonts/';
+$base-path: '../../public/fonts/' !default;
 
 @font-face {
   font-family: 'MatterLight';
